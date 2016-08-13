@@ -33,5 +33,5 @@ Basic controls for motion are accessable via telegram-bot.
   
   python /home/pi/motion_control_telegram_bot.py
   ```
-  
+- replace your login credentials
 - restart the computer
